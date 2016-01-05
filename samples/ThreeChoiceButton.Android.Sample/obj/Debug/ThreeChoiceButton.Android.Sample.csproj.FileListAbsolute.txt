@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample.dll
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample.pdb
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample.dll.mdb
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample.apk
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample-Signed.apk
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\Xamarin.Controls.ThreeChoiceButton.Android.dll
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\ThreeChoiceButton.Android.Sample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\ThreeChoiceButton.Android.Sample.dll
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\ThreeChoiceButton.Android.Sample.pdb
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\android\bin\ThreeChoiceButton.Android.Sample.apk
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\res\drawable\icon.png
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\R.cs.flag
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\obj\Debug\uploadflags.txt

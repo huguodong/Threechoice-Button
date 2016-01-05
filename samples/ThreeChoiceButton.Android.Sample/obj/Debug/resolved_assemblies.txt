@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\samples\ThreeChoiceButton.Android.Sample\bin\Debug\ThreeChoiceButton.Android.Sample.dll
+C:\Users\Administrator\Desktop\threechoicebutton-1.1.1.1\lib\android\Xamarin.Controls.ThreeChoiceButton.Android.dll
